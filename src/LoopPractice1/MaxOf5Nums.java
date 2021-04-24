@@ -27,6 +27,8 @@ public class MaxOf5Nums {
         System.out.println("max number: " + maxNum);
         System.out.println("min number: " + minNum);
 
+        System.out.println("I did pushed on GitHub");
+
 
     }
 }
